@@ -17,7 +17,9 @@
    i) main.cpp
    j) mirror_simulator.h
    k) mirror_simulator.cpp
-   l) Makefile                     ***not my code 
+   l) errors.h
+   m) errors.cpp
+   n) Makefile                     ***not my code 
 
 3. No known errors.
 
